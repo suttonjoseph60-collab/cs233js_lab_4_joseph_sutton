@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "./"
+        },
+        {
+            "path": "../../../.."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "LCC-CIT CS233JS-CourseMaterials main Labs-Lab04-Node_FilesForStudents"
+    }
+}
